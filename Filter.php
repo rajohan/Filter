@@ -30,7 +30,6 @@ class Filter
 {
     private static $data;
 
-
     /**
      * @param string/array $data - data to sanitize
      * @return mixed - data sanitized
